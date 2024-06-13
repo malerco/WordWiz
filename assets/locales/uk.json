@@ -1,0 +1,12 @@
+{
+  "@@locale": "uk",
+  "new_game": "Нова гра",
+  "continue_game": "Продовжити гру",
+  "settings": "Налаштування",
+  "game_finished": "Кросворд розгадано",
+  "create_new": "Створити новий",
+  "extra_words": "Додаткові слова",
+  "language_selection": "Вибір мови",
+  "background_selection": "Вибір фону",
+  "apply": "Застосувати"
+}

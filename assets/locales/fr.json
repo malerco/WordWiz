@@ -1,0 +1,12 @@
+{
+  "@@locale": "fr",
+  "new_game": "Nouveau Jeu",
+  "continue_game": "Continuer le Jeu",
+  "settings": "Paramètres",
+  "game_finished": "Mots croisés résolus",
+  "create_new": "Créer Nouveau",
+  "extra_words": "Mots Supplémentaires",
+  "language_selection": "Sélection de la langue",
+  "background_selection": "Sélection du fond",
+  "apply": "Appliquer"
+}

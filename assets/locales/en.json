@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "new_game": "New Game",
+  "continue_game": "Continue Game",
+  "settings": "Settings",
+  "game_finished": "Crossword Solved",
+  "create_new": "Create New",
+  "extra_words": "Extra Words",
+  "language_selection": "Language Selection",
+  "background_selection": "Background Selection",
+  "apply": "Apply"
+}

@@ -1,0 +1,12 @@
+{
+  "@@locale": "es",
+  "new_game": "Nuevo Juego",
+  "continue_game": "Continuar Juego",
+  "settings": "Configuraciones",
+  "game_finished": "Crucigrama resuelto",
+  "create_new": "Crear Nuevo",
+  "extra_words": "Palabras Extra",
+  "language_selection": "Seleccionar idioma",
+  "background_selection": "Seleccionar fondo",
+  "apply": "Aplicar"
+}

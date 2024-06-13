@@ -1,0 +1,12 @@
+{
+  "@@locale": "ru",
+  "new_game": "Новая игра",
+  "continue_game": "Продолжить игру",
+  "settings": "Настройки",
+  "game_finished": "Кроссворд отгадан",
+  "create_new": "Создать новый",
+  "extra_words": "Дополнительные слова",
+  "language_selection": "Выбор языка",
+  "background_selection": "Выбор фона",
+  "apply": "Применить"
+}
