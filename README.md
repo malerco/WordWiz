@@ -11,6 +11,8 @@ Features:
 
 Join our community of word game enthusiasts and start your journey into the world of crosswords today!
 
+https://play.google.com/store/apps/details?id=com.malerco.words
+
 <img src="./words.gif" alt="GIF" height="700">
 
 **Privacy Policy**
