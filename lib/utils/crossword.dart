@@ -236,7 +236,6 @@ class CrosswordMaker extends Crossword{
     bool isRowEmpty = true;
     List<List<String>> removeIndexes = [];
 
-    print(final_words);
 
     for (List<String> list in matrix) {
       isRowEmpty = true;
